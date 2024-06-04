@@ -1,0 +1,11 @@
+pin
+razor
+grater
+
+menu
+accordion
+kettle
+pier
+cage
+pillow
+refrigerator

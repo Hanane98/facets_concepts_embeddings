@@ -1,0 +1,11 @@
+bathtub
+stove
+candle
+
+elevator
+tangerine
+earmuffs
+olive
+wrench
+emerald
+thermometer

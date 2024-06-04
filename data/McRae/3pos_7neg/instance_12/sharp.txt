@@ -1,0 +1,11 @@
+razor
+scissors
+axe
+
+telephone
+refrigerator
+coin
+caribou
+yam
+truck
+pot

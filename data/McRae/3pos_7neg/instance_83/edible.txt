@@ -1,0 +1,11 @@
+lobster
+cake
+plum
+
+inn
+dress
+hatchet
+buggy
+socks
+boat
+tennis_racket

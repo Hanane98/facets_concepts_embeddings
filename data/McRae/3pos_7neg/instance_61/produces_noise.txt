@@ -1,0 +1,11 @@
+ambulance
+flute
+hair_drier
+
+mittens
+table
+bag
+nightgown
+pyramid
+mirror
+onions

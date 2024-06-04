@@ -1,0 +1,11 @@
+bull
+missile
+motorcycle
+
+mat
+platypus
+gown
+cell_phone
+vine
+radish
+rice

@@ -1,0 +1,11 @@
+candle
+bathtub
+toaster
+
+toad
+shrimp
+violin
+jeans
+racquet
+anchor
+fork

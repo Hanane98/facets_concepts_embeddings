@@ -1,0 +1,11 @@
+razor
+screwdriver
+pin
+
+shawl
+toy
+surfboard
+radio
+football
+coin
+hyena

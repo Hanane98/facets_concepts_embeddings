@@ -1,0 +1,11 @@
+machete
+motorcycle
+cheetah
+
+pineapple
+toothbrush
+pen
+cork
+suitcase
+airplane
+coin

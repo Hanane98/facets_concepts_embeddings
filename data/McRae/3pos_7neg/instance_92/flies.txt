@@ -1,0 +1,11 @@
+airplane
+eagle
+moth
+
+pan
+bicycle
+bungalow
+pencil
+cow
+trumpet
+drum

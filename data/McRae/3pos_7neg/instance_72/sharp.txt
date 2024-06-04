@@ -1,0 +1,11 @@
+spear
+blender
+pin
+
+baseball_glove
+clarinet
+kettle
+crowbar
+robe
+prune
+mittens

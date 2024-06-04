@@ -1,0 +1,11 @@
+carrot
+sandwich
+octopus
+
+emerald
+wine_glass
+balloon
+seagull
+swimsuit
+buggy
+pen

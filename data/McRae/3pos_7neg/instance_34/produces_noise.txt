@@ -1,0 +1,11 @@
+bomb
+accordion
+ambulance
+
+ladle
+cork
+stop_sign
+onions
+cucumber
+cottage
+tent

@@ -1,0 +1,11 @@
+hair_drier
+cigar
+bathtub
+
+tray
+fox
+frog
+blouse
+bison
+jeans
+clock

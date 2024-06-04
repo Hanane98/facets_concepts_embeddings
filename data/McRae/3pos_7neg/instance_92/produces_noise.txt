@@ -1,0 +1,11 @@
+airplane
+stereo
+grenade
+
+goldfish
+skyscraper
+tuna
+apple
+vest
+frisbee
+broccoli

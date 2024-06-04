@@ -1,0 +1,11 @@
+hose
+caterpillar
+jeep
+
+building
+clock
+sheep
+toaster
+spoon
+slippers
+inn

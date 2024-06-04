@@ -1,0 +1,11 @@
+peas
+squid
+tent
+chipmunk
+
+escalator
+squirrel
+pan
+fire_hydrant
+pliers
+helicopter

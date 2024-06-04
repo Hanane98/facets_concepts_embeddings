@@ -1,0 +1,11 @@
+chapel
+mug
+anchor
+alligator
+
+drapes
+ruler
+tomahawk
+tripod
+magazine
+vase

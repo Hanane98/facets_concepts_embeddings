@@ -1,0 +1,11 @@
+thimble
+hair_drier
+bathtub
+crowbar
+
+handbag
+turnip
+basket
+nightgown
+boots
+buffalo

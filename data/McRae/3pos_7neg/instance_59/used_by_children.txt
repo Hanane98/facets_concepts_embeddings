@@ -1,0 +1,11 @@
+buggy
+balloon
+skateboard
+
+anchor
+suitcase
+spear
+bucket
+beehive
+ambulance
+shotgun

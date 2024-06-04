@@ -1,0 +1,11 @@
+socks
+skis
+sandals
+
+hammer
+pen
+bullet
+bucket
+razor
+gun
+rice

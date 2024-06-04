@@ -1,0 +1,11 @@
+lobster
+salamander
+canoe
+
+celery
+cart
+curtains
+bookcase
+thermometer
+potato
+oven

@@ -1,0 +1,11 @@
+bathtub
+cigarette
+hair_drier
+
+tripod
+cabinet
+dagger
+banana
+wine_glass
+emerald
+coin

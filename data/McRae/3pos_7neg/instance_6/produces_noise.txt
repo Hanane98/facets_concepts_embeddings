@@ -1,0 +1,11 @@
+bagpipe
+helicopter
+hair_drier
+
+building
+grater
+mug
+snowboard
+blueberry
+sleigh
+vine

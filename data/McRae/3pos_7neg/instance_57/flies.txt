@@ -1,0 +1,11 @@
+kite
+bird
+rocket
+
+bullet
+pistol
+gate
+cellar
+whip
+buggy
+kettle

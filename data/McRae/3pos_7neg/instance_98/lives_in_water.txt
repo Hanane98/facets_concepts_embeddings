@@ -1,0 +1,11 @@
+whale
+shrimp
+flamingo
+
+tree
+faucet
+fence
+comb
+mixer
+cabbage
+tomato

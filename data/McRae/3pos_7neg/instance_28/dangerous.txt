@@ -1,0 +1,11 @@
+alligator
+revolver
+motorcycle
+
+book
+duck
+asparagus
+shell
+ball
+muzzle
+sandpaper

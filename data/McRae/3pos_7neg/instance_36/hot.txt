@@ -1,0 +1,11 @@
+bathtub
+hair_drier
+candle
+
+jeans
+beetle
+cello
+tennis_racket
+box
+mixer
+cupboard

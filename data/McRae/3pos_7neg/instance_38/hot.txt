@@ -1,0 +1,11 @@
+candle
+hair_drier
+bathtub
+
+bayonet
+spoon
+shell
+cantaloupe
+leopard
+thermometer
+brush

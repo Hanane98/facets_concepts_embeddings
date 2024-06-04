@@ -1,0 +1,11 @@
+oven
+bathtub
+cigarette
+
+dining_table
+cello
+slingshot
+spear
+cathedral
+coin
+cloak

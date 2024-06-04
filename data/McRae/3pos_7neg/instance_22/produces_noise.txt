@@ -1,0 +1,11 @@
+piano
+cell_phone
+helicopter
+
+shelves
+robe
+necklace
+pier
+strawberry
+medal
+slingshot

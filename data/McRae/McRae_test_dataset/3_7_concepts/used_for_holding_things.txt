@@ -1,0 +1,11 @@
+ship
+bottle
+belt
+
+helicopter
+pineapple
+calf
+skateboard
+gun
+olive
+elephant

@@ -1,0 +1,11 @@
+harp
+cannon
+cell_phone
+
+camisole
+potted_plant
+couch
+tie
+jacket
+wheel
+pineapple

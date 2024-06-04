@@ -1,0 +1,11 @@
+stove
+ladle
+blender
+
+tractor
+vest
+helmet
+ashtray
+banner
+potato
+skyscraper

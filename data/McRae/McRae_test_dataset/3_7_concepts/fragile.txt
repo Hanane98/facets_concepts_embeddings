@@ -1,0 +1,11 @@
+microscope
+certificate
+urn
+
+dress
+axe
+leotards
+escalator
+hair_drier
+catapult
+harpsichord

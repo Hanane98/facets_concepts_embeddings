@@ -1,0 +1,11 @@
+cannon
+helicopter
+stereo
+
+dagger
+stick
+crowbar
+rabbit
+wand
+scissors
+ball

@@ -1,0 +1,11 @@
+salmon
+boat
+shrimp
+
+cottage
+brick
+goat
+hot_dog
+basement
+drum
+walnut

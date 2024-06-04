@@ -1,0 +1,11 @@
+apron
+strainer
+kettle
+
+helicopter
+hot_dog
+screwdriver
+squirrel
+submarine
+canoe
+dishwasher

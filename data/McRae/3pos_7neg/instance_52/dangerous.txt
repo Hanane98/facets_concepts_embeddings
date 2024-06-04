@@ -1,0 +1,11 @@
+crocodile
+motorcycle
+bullet
+
+saddle
+typewriter
+fridge
+cage
+lobster
+seal
+toothbrush

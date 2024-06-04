@@ -1,0 +1,11 @@
+shoes
+snowboard
+socks
+
+pistol
+remote
+cathedral
+frog
+potted_plant
+tuba
+trolley

@@ -1,0 +1,11 @@
+razor
+grater
+scissors
+
+camel
+dandelion
+broom
+eggplant
+gate
+fox
+truck

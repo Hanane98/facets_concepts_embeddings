@@ -1,0 +1,11 @@
+helicopter
+hair_drier
+piano
+
+hare
+knife
+crowbar
+potato
+moth
+raisin
+menu

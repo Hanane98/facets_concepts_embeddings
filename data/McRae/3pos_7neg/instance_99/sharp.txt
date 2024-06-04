@@ -1,0 +1,11 @@
+corkscrew
+pin
+blender
+
+bus
+mushroom
+doll
+pajamas
+radio
+tuba
+tricycle

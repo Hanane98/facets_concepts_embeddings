@@ -1,0 +1,11 @@
+corn
+goat
+bread
+
+spade
+shack
+skunk
+coin
+sword
+door
+pin

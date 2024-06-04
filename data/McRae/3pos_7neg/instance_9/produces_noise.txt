@@ -1,0 +1,11 @@
+cell_phone
+cannon
+helicopter
+
+hose
+jacket
+spade
+sofa
+snowboard
+dresser
+pin

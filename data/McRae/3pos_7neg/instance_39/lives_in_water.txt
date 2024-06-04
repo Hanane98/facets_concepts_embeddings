@@ -1,0 +1,11 @@
+salamander
+tuna
+shrimp
+
+ashtray
+bag
+faucet
+potato
+projector
+python
+camel

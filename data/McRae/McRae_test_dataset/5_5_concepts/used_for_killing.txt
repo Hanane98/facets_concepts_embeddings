@@ -1,0 +1,11 @@
+crossbow
+bayonet
+machete
+sword
+gun
+
+beets
+coin
+eggplant
+rabbit
+banana

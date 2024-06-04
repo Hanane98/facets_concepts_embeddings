@@ -1,0 +1,11 @@
+rat
+person
+
+sofa
+lamp
+sledgehammer
+tricycle
+bagpipe
+ball
+penguin
+grater

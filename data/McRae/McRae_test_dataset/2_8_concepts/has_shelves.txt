@@ -1,0 +1,11 @@
+wall
+fridge
+
+pineapple
+screws
+comb
+lobster
+guitar
+chair
+accordion
+beetle

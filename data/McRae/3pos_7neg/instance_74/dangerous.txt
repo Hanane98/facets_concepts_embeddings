@@ -1,0 +1,11 @@
+motorcycle
+rifle
+bull
+
+basement
+muzzle
+banner
+buggy
+squirrel
+cage
+pen

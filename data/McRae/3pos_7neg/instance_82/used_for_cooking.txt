@@ -1,0 +1,11 @@
+tongs
+stove
+bowl
+
+doll
+pier
+plum
+camisole
+horse
+platypus
+parking_meter

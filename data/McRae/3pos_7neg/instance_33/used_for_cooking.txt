@@ -1,0 +1,11 @@
+stove
+spoon
+mixer
+
+bagpipe
+drapes
+lion
+gown
+flea
+pig
+cell_phone

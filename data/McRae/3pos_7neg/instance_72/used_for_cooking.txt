@@ -1,0 +1,11 @@
+stove
+apron
+blender
+
+cow
+guitar
+peach
+clamp
+goat
+camel
+subway

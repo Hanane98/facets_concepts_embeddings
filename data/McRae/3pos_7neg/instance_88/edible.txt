@@ -1,0 +1,11 @@
+shrimp
+prune
+hot_dog
+
+closet
+urn
+faucet
+pin
+socks
+tree
+skateboard

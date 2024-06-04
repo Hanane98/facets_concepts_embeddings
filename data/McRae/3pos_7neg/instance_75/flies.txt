@@ -1,0 +1,11 @@
+jet
+peacock
+kite
+
+elevator
+couch
+elephant
+cheetah
+taxi
+calf
+lemon

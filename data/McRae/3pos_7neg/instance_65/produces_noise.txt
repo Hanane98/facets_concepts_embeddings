@@ -1,0 +1,11 @@
+cannon
+cell_phone
+piano
+
+squid
+jar
+knife
+urn
+camisole
+razor
+toothbrush

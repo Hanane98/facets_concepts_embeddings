@@ -1,0 +1,11 @@
+crab
+dolphin
+flamingo
+
+ruler
+bear
+brush
+gun
+dining_table
+toaster
+clock

@@ -1,0 +1,11 @@
+motorcycle
+harpoon
+bull
+
+mandarin
+hot_dog
+bottle
+shirt
+plate
+goldfish
+rooster

@@ -1,0 +1,11 @@
+gorilla
+mixer
+missile
+pistol
+
+raft
+rake
+sandwich
+bowl
+ruler
+lobster

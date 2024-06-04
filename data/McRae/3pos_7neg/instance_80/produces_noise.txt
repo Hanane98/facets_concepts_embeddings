@@ -1,0 +1,11 @@
+helicopter
+bomb
+stereo
+
+dresser
+pear
+pot
+snowboard
+boots
+dandelion
+tray

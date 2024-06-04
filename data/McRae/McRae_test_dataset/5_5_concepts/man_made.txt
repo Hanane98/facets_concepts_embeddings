@@ -1,0 +1,11 @@
+trailer
+cape
+traffic_light
+shield
+wagon
+
+cauliflower
+elk
+cheetah
+cockroach
+coyote

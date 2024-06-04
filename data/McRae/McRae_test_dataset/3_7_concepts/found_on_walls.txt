@@ -1,0 +1,11 @@
+mirror
+mirror
+moth
+
+camel
+worm
+stop_sign
+refrigerator
+submarine
+tree
+horse

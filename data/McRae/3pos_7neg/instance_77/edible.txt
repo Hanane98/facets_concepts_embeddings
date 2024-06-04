@@ -1,0 +1,11 @@
+bread
+chicken
+plum
+
+screwdriver
+garage
+chandelier
+trumpet
+harpoon
+closet
+person

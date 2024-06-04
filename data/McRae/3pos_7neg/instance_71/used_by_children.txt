@@ -1,0 +1,11 @@
+balloon
+pencil
+teddy_bear
+
+seagull
+rice
+parking_meter
+rat
+ashtray
+tree
+bull

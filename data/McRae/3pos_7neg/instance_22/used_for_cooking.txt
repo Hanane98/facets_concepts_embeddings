@@ -1,0 +1,11 @@
+skillet
+blender
+toaster
+
+pencil
+wagon
+tomahawk
+yacht
+wand
+chapel
+peacock

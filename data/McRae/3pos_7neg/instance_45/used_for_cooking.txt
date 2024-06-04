@@ -1,0 +1,11 @@
+ladle
+blender
+apron
+
+refrigerator
+mirror
+grape
+shield
+jacket
+cape
+bus

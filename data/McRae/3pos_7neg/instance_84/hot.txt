@@ -1,0 +1,11 @@
+bathtub
+candle
+hair_drier
+
+slippers
+cherry
+ruler
+rooster
+wand
+thimble
+pen

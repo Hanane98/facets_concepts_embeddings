@@ -1,0 +1,11 @@
+squid
+donut
+potato
+
+car
+radio
+spoon
+brick
+sandals
+tray
+skyscraper

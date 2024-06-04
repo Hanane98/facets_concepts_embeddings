@@ -1,0 +1,11 @@
+walrus
+crab
+tuna
+
+bomb
+fence
+dagger
+skis
+airplane
+cushion
+dining_table

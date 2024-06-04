@@ -1,0 +1,11 @@
+strainer
+apron
+grater
+
+elevator
+lettuce
+swan
+motorcycle
+screwdriver
+sack
+basket

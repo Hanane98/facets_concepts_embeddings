@@ -1,0 +1,11 @@
+blender
+stove
+knife
+
+peach
+squirrel
+bike
+inn
+pumpkin
+crossbow
+bottle

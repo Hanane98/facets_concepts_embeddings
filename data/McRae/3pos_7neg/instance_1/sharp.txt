@@ -1,0 +1,11 @@
+grater
+chisel
+pin
+
+tomato
+elk
+pants
+shed
+tennis_racket
+whistle
+strawberry

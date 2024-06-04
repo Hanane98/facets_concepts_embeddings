@@ -1,0 +1,11 @@
+shoes
+socks
+snowboard
+
+iguana
+wine_glass
+necklace
+spoon
+cranberry
+wheelbarrow
+banjo

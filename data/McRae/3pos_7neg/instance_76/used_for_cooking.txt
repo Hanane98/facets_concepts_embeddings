@@ -1,0 +1,11 @@
+knife
+skillet
+oven
+
+catapult
+bolts
+closet
+jar
+pin
+squirrel
+pliers

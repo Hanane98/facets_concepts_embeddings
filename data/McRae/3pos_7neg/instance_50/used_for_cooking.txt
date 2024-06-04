@@ -1,0 +1,11 @@
+knife
+blender
+kettle
+
+backpack
+book
+menu
+sports_ball
+hose
+turnip
+cell_phone

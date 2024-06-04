@@ -1,0 +1,11 @@
+sandals
+skis
+socks
+
+bullet
+balloon
+ruler
+radio
+goldfish
+yacht
+bagpipe

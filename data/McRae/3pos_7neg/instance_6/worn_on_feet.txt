@@ -1,0 +1,11 @@
+nylons
+slippers
+skis
+
+duck
+axe
+cow
+corkscrew
+worm
+bread
+gown

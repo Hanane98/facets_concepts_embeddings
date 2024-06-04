@@ -1,0 +1,11 @@
+missile
+goose
+wasp
+
+refrigerator
+book
+rabbit
+cape
+leotards
+coconut
+camel

@@ -1,0 +1,11 @@
+cigar
+kettle
+bathtub
+
+thermometer
+magazine
+clock
+lemon
+tuna
+chapel
+pyramid

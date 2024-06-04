@@ -1,0 +1,11 @@
+housefly
+duck
+rocket
+
+refrigerator
+baseball_bat
+elk
+python
+ladle
+fawn
+kettle

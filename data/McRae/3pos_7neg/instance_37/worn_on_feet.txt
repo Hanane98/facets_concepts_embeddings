@@ -1,0 +1,11 @@
+skis
+shoes
+nylons
+
+shirt
+cart
+menu
+wheelbarrow
+jeans
+trailer
+projector

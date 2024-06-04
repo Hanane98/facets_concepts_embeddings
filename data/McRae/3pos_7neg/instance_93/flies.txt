@@ -1,0 +1,11 @@
+frisbee
+hawk
+housefly
+
+sailboat
+buggy
+chain
+screws
+skirt
+cow
+blouse

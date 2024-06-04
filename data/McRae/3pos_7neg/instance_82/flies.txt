@@ -1,0 +1,11 @@
+jet
+frisbee
+housefly
+
+coyote
+tiger
+pencil
+telephone
+pan
+elephant
+pyramid

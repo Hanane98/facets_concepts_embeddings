@@ -1,0 +1,11 @@
+knife
+scissors
+pin
+
+spatula
+truck
+bed
+ball
+pot
+slippers
+pillow

@@ -1,0 +1,11 @@
+razor
+corkscrew
+axe
+
+cheetah
+coin
+cathedral
+turtle
+wand
+basket
+sandwich

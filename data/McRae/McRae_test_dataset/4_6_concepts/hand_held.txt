@@ -1,0 +1,11 @@
+carrot
+rock
+shield
+laptop
+
+sailboat
+wheel
+sink
+rabbit
+raccoon
+shirt

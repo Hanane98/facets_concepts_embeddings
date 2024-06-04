@@ -1,0 +1,11 @@
+grenade
+bazooka
+shotgun
+
+cottage
+prune
+shawl
+swimsuit
+wand
+biscuit
+shield

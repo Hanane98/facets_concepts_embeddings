@@ -1,0 +1,11 @@
+pot
+grater
+apron
+
+tray
+potted_plant
+shotgun
+banjo
+hoe
+beets
+boots

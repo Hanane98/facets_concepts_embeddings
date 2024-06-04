@@ -1,0 +1,11 @@
+helicopter
+cell_phone
+piano
+
+jacket
+rice
+cucumber
+raisin
+broccoli
+scissors
+tomahawk

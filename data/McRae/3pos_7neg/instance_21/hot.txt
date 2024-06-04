@@ -1,0 +1,11 @@
+stove
+bathtub
+cigar
+
+fire_hydrant
+belt
+parka
+honeydew
+mandarin
+necklace
+hatchet

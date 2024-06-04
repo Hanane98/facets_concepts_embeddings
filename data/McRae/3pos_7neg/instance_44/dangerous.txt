@@ -1,0 +1,11 @@
+motorcycle
+revolver
+tiger
+
+teddy_bear
+apartment
+caterpillar
+chair
+leotards
+drapes
+pajamas

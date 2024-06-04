@@ -1,0 +1,11 @@
+scooter
+laptop
+escalator
+sword
+trumpet
+
+lamp
+raccoon
+goat
+rock
+level

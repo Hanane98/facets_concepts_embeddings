@@ -1,0 +1,11 @@
+octopus
+goldfish
+swan
+
+tomato
+hose
+fire_hydrant
+door
+falcon
+belt
+spear

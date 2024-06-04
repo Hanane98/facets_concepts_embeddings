@@ -1,0 +1,11 @@
+snowboard
+boots
+socks
+
+train
+hare
+cabbage
+cauliflower
+cage
+otter
+tomato

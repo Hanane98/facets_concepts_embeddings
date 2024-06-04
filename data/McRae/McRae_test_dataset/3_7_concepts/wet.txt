@@ -1,0 +1,11 @@
+dish
+snowboard
+buffalo
+
+revolver
+medal
+oven
+banner
+hornet
+cloak
+envelope

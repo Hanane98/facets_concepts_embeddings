@@ -1,0 +1,11 @@
+cannon
+helicopter
+clarinet
+
+octopus
+pie
+scissors
+hot_dog
+potted_plant
+trailer
+pumpkin

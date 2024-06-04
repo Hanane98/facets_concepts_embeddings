@@ -1,0 +1,11 @@
+toaster
+pot
+blender
+
+person
+sofa
+chandelier
+drain
+pearl
+whistle
+hare

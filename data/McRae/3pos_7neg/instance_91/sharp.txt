@@ -1,0 +1,11 @@
+pin
+sword
+razor
+
+harpsichord
+cheese
+bench
+duck
+deer
+buckle
+beaver

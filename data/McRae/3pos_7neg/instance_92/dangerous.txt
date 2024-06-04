@@ -1,0 +1,11 @@
+motorcycle
+pistol
+lion
+
+cabin
+caterpillar
+celery
+sofa
+pig
+housefly
+mouse

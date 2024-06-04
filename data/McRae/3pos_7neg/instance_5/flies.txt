@@ -1,0 +1,11 @@
+balloon
+housefly
+helicopter
+
+cantaloupe
+revolver
+clamp
+potted_plant
+barrel
+envelope
+crowbar

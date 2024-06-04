@@ -1,0 +1,11 @@
+grenade
+stereo
+helicopter
+
+tripod
+sled
+rock
+stick
+necklace
+cabbage
+screwdriver

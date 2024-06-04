@@ -1,0 +1,11 @@
+airplane
+hornet
+kite
+
+calf
+vest
+dolphin
+barn
+bomb
+skyscraper
+lamb

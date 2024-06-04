@@ -1,0 +1,11 @@
+pig
+blueberry
+hot_dog
+
+gun
+barrel
+hut
+ruler
+skirt
+pistol
+cupboard

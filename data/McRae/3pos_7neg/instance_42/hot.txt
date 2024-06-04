@@ -1,0 +1,11 @@
+toaster
+candle
+bathtub
+
+wasp
+rattlesnake
+blouse
+cherry
+dagger
+owl
+crown

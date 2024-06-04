@@ -1,0 +1,11 @@
+whale
+submarine
+lobster
+
+trolley
+keyboard
+bolts
+raccoon
+ant
+parsley
+stop_sign

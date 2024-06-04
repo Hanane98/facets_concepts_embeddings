@@ -1,0 +1,11 @@
+bread
+clam
+pear
+
+caterpillar
+keyboard
+harp
+napkin
+chain
+butterfly
+giraffe

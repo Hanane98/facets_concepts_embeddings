@@ -1,0 +1,11 @@
+cell_phone
+bagpipe
+grenade
+
+squid
+salmon
+baseball_glove
+nectarine
+spinach
+cabin
+nightgown

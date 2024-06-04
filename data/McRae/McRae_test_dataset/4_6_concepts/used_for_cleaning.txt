@@ -1,0 +1,11 @@
+hose
+toothbrush
+gloves
+broom
+
+corn
+sweater
+jeans
+tomahawk
+banjo
+laptop

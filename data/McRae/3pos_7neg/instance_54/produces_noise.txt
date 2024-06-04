@@ -1,0 +1,11 @@
+hair_drier
+violin
+cannon
+
+swimsuit
+crowbar
+sardine
+wall
+spider
+potato
+hook

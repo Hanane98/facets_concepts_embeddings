@@ -1,0 +1,11 @@
+knife
+shotgun
+
+harpsichord
+tennis_racket
+raft
+rabbit
+bra
+thermometer
+desk
+lamb

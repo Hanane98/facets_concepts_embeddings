@@ -1,0 +1,11 @@
+alligator
+canoe
+shrimp
+
+cathedral
+eagle
+cabin
+toaster
+trumpet
+escalator
+elevator

@@ -1,0 +1,11 @@
+skis
+sandals
+socks
+
+frisbee
+house
+spade
+horse
+dishwasher
+platypus
+hot_dog

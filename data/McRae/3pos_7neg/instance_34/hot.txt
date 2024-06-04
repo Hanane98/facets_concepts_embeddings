@@ -1,0 +1,11 @@
+bathtub
+stove
+candle
+
+couch
+sofa
+hammer
+tray
+seal
+church
+belt

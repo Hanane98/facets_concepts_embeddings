@@ -1,0 +1,11 @@
+dagger
+scissors
+grater
+
+swan
+bicycle
+balloon
+blueberry
+bullet
+vase
+bison

@@ -1,0 +1,11 @@
+kettle
+mixer
+pot
+
+grasshopper
+turkey
+kite
+tennis_racket
+bear
+octopus
+skyscraper

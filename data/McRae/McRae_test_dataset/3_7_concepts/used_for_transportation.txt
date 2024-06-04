@@ -1,0 +1,11 @@
+bike
+unicycle
+ambulance
+
+knife
+freezer
+belt
+hot_dog
+bra
+gorilla
+mandarin

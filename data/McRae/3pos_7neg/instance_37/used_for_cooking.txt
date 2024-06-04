@@ -1,0 +1,11 @@
+pot
+blender
+kettle
+
+bureau
+ostrich
+wand
+radish
+stop_sign
+banana
+teddy_bear

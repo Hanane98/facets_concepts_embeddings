@@ -1,0 +1,11 @@
+cheese
+cherry
+deer
+
+traffic_light
+limousine
+lion
+harmonica
+dining_table
+apron
+sleigh

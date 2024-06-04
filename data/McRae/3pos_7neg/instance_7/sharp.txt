@@ -1,0 +1,11 @@
+knife
+pin
+screwdriver
+
+skillet
+pigeon
+teddy_bear
+handbag
+garage
+crowbar
+baseball_glove

@@ -1,0 +1,11 @@
+corkscrew
+razor
+grater
+
+bus
+bag
+wheel
+chair
+cellar
+buffalo
+butterfly

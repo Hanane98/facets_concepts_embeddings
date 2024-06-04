@@ -1,0 +1,11 @@
+airplane
+hornet
+owl
+
+platypus
+wand
+hot_dog
+screwdriver
+ashtray
+projector
+paintbrush

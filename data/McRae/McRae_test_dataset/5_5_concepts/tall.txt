@@ -1,0 +1,11 @@
+elephant
+ship
+shield
+closet
+tripod
+
+coconut
+beetle
+coyote
+peas
+leotards

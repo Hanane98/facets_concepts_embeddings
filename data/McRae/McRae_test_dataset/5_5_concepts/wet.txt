@@ -1,0 +1,11 @@
+turtle
+seal
+crab
+tiger
+car
+
+laptop
+shirt
+biscuit
+bayonet
+cape

@@ -1,0 +1,11 @@
+motorcycle
+machete
+lion
+
+chipmunk
+chicken
+cell_phone
+lantern
+crowbar
+nectarine
+bed

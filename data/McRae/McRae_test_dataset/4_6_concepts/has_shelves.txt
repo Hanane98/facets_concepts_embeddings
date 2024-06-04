@@ -1,0 +1,11 @@
+garage
+cabinet
+freezer
+bookcase
+
+bouquet
+bicycle
+potato
+dove
+napkin
+jet

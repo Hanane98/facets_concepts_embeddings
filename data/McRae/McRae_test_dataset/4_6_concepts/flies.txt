@@ -1,0 +1,11 @@
+hornet
+seagull
+duck
+flamingo
+
+toilet
+clock
+socks
+tray
+escalator
+turkey

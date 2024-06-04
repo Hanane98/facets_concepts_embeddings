@@ -1,0 +1,11 @@
+kettle
+bathtub
+candle
+
+cupboard
+duck
+cheese
+catapult
+mat
+razor
+vest

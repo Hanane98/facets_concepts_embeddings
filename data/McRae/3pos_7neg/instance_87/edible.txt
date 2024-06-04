@@ -1,0 +1,11 @@
+chicken
+sandwich
+cranberry
+
+salamander
+curtains
+machete
+barrel
+refrigerator
+baseball_bat
+chandelier

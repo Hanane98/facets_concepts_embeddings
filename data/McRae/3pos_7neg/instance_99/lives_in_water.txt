@@ -1,0 +1,11 @@
+swan
+sardine
+submarine
+
+cloak
+horse
+tongs
+pig
+person
+trumpet
+housefly

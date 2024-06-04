@@ -1,0 +1,11 @@
+bathtub
+cigarette
+hair_drier
+
+sofa
+church
+prune
+pumpkin
+cupboard
+level
+pier

@@ -1,0 +1,11 @@
+motorcycle
+refrigerator
+dishwasher
+donkey
+panther
+
+dining_table
+key
+pear
+pepper
+cigarette

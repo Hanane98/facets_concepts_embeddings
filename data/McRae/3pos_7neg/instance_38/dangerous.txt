@@ -1,0 +1,11 @@
+motorcycle
+bull
+axe
+
+tree
+cucumber
+beaver
+doll
+church
+potted_plant
+telephone

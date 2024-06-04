@@ -1,0 +1,11 @@
+dagger
+motorcycle
+cheetah
+
+couch
+gown
+sandwich
+closet
+tent
+sandals
+plum

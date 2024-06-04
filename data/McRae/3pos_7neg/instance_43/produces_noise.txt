@@ -1,0 +1,11 @@
+bomb
+piano
+hair_drier
+
+oven
+sweater
+cigar
+mat
+ladle
+cellar
+shovel

@@ -1,0 +1,11 @@
+pajamas
+shawl
+socks
+shoes
+
+car
+goose
+pin
+cart
+kettle
+apple

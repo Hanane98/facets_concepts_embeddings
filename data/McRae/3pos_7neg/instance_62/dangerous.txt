@@ -1,0 +1,11 @@
+rattlesnake
+crossbow
+motorcycle
+
+hot_dog
+hamster
+horse
+tuba
+olive
+cloak
+guitar

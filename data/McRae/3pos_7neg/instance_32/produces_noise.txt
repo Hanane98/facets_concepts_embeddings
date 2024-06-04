@@ -1,0 +1,11 @@
+stereo
+piano
+cannon
+
+salamander
+knife
+nectarine
+belt
+pear
+frisbee
+earmuffs

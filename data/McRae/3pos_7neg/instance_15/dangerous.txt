@@ -1,0 +1,11 @@
+pistol
+bull
+motorcycle
+
+bathtub
+thimble
+elevator
+sleigh
+cart
+menu
+radio

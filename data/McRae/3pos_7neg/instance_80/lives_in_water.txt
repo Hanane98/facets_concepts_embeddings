@@ -1,0 +1,11 @@
+canoe
+salmon
+clam
+
+giraffe
+dove
+box
+bird
+helmet
+apron
+muzzle

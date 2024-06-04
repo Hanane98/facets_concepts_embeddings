@@ -1,0 +1,11 @@
+sled
+toy
+earmuffs
+
+clamp
+tomahawk
+pie
+pigeon
+camel
+chicken
+beetle

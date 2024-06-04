@@ -1,0 +1,11 @@
+biscuit
+cucumber
+lamb
+
+wheel
+shed
+escalator
+ostrich
+person
+laptop
+pan

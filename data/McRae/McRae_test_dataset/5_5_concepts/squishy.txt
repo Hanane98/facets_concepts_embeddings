@@ -1,0 +1,11 @@
+squid
+yam
+sofa
+teddy_bear
+earmuffs
+
+donkey
+raspberry
+dresser
+catapult
+walnut

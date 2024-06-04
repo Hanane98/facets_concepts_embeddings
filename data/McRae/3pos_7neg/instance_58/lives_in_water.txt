@@ -1,0 +1,11 @@
+lobster
+dolphin
+seal
+
+pigeon
+axe
+magazine
+urn
+lamp
+spear
+doll

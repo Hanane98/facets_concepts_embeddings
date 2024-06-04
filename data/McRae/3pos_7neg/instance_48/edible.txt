@@ -1,0 +1,11 @@
+sandwich
+tuna
+nectarine
+
+door
+ostrich
+unicycle
+hatchet
+hook
+desk
+bookcase

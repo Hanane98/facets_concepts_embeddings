@@ -1,0 +1,11 @@
+spear
+alligator
+chisel
+hornet
+
+banjo
+pear
+rat
+sack
+pearl
+napkin

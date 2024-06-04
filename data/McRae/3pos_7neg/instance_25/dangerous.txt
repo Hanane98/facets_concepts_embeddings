@@ -1,0 +1,11 @@
+tiger
+grenade
+motorcycle
+
+duck
+tennis_racket
+parking_meter
+tuba
+toaster
+avocado
+sports_ball

@@ -1,0 +1,11 @@
+apron
+grater
+stove
+
+telephone
+napkin
+desk
+barn
+baseball_bat
+saxophone
+bedroom

@@ -1,0 +1,11 @@
+rake
+pin
+knife
+
+table
+cockroach
+harmonica
+pickle
+ant
+anchor
+walnut

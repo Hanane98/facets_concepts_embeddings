@@ -1,0 +1,11 @@
+helicopter
+grenade
+cell_phone
+
+cabin
+ruler
+skyscraper
+banner
+sword
+garage
+dandelion

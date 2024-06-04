@@ -1,0 +1,11 @@
+bathtub
+toaster
+candle
+
+eel
+chair
+cockroach
+sweater
+lamb
+chimp
+caribou

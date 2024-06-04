@@ -1,0 +1,11 @@
+motorcycle
+bull
+knife
+
+door
+toad
+toilet
+pizza
+rocker
+pen
+cat

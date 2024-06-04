@@ -1,0 +1,11 @@
+oven
+bathtub
+candle
+
+football
+rabbit
+sweater
+thimble
+trout
+fire_hydrant
+skirt

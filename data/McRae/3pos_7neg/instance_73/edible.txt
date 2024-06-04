@@ -1,0 +1,11 @@
+octopus
+pizza
+carrot
+
+skunk
+door
+hut
+spatula
+fox
+trombone
+hammer

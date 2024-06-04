@@ -1,0 +1,11 @@
+grenade
+airplane
+hair_drier
+
+cabin
+tray
+candle
+cathedral
+broccoli
+teddy_bear
+mirror

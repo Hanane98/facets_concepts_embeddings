@@ -1,0 +1,11 @@
+helicopter
+seagull
+kite
+
+swimsuit
+radio
+cellar
+banana
+submarine
+shovel
+medal

@@ -1,0 +1,11 @@
+hair_drier
+grenade
+helicopter
+
+walnut
+shed
+raisin
+skirt
+mittens
+muzzle
+slippers

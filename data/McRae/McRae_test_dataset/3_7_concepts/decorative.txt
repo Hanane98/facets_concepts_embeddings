@@ -1,0 +1,11 @@
+cabinet
+lamp
+balloon
+
+toilet
+crow
+projector
+hut
+chipmunk
+chain
+chicken

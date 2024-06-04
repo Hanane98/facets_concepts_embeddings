@@ -1,0 +1,11 @@
+beehive
+rifle
+motorcycle
+
+sheep
+pepper
+suitcase
+hawk
+brush
+bridge
+penguin

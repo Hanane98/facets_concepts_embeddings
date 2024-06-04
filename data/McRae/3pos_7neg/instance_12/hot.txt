@@ -1,0 +1,11 @@
+cigarette
+kettle
+bathtub
+
+menu
+inn
+tree
+duck
+book
+beetle
+tack

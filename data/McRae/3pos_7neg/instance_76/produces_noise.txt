@@ -1,0 +1,11 @@
+cell_phone
+ambulance
+trombone
+
+balloon
+scarf
+shrimp
+stick
+shack
+snowboard
+basket

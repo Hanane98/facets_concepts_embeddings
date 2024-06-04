@@ -1,0 +1,11 @@
+helicopter
+stereo
+grenade
+
+hoe
+garlic
+necklace
+cottage
+shovel
+wagon
+bracelet

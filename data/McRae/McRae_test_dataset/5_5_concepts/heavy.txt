@@ -1,0 +1,11 @@
+shed
+desk
+fire_hydrant
+elk
+lion
+
+pin
+lantern
+crab
+raccoon
+beetle

@@ -1,0 +1,11 @@
+candle
+stove
+bathtub
+
+dresser
+chandelier
+belt
+inn
+shield
+cat
+baseball_glove

@@ -1,0 +1,11 @@
+tongs
+toaster
+apron
+
+whale
+skis
+bookcase
+rifle
+skirt
+key
+spear

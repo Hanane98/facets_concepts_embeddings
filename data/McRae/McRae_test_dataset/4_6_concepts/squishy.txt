@@ -1,0 +1,11 @@
+turkey
+toad
+slippers
+asparagus
+
+bike
+rocket
+cannon
+traffic_light
+tongs
+backpack

@@ -1,0 +1,11 @@
+swan
+lobster
+submarine
+
+harp
+fire_hydrant
+hut
+eggplant
+dress
+unicycle
+dining_table

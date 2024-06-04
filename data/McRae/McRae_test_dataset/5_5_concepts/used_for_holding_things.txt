@@ -1,0 +1,11 @@
+dish
+cage
+car
+wheelbarrow
+fridge
+
+toy
+stick
+tuna
+seal
+donkey

@@ -1,0 +1,11 @@
+toaster
+cigar
+bathtub
+
+sword
+squid
+sheep
+thermometer
+cellar
+marble
+parsley

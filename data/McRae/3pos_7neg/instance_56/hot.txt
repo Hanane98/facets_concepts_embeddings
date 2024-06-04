@@ -1,0 +1,11 @@
+candle
+bathtub
+oven
+
+rabbit
+inn
+celery
+shield
+crossbow
+crown
+grape

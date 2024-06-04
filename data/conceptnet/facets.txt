@@ -1,0 +1,10 @@
+RelatedTo
+FormOf
+IsA
+UsedFor
+AtLocation
+CapableOf
+HasProperty
+HasA
+InstanceOf
+MadeOf

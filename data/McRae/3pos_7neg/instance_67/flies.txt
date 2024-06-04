@@ -1,0 +1,11 @@
+moth
+frisbee
+rocket
+
+razor
+harmonica
+apron
+football
+accordion
+swimsuit
+potted_plant

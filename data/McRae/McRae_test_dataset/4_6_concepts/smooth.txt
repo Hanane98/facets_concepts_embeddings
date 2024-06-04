@@ -1,0 +1,11 @@
+grapefruit
+yacht
+bureau
+freezer
+
+seagull
+rooster
+bull
+bridge
+fire_hydrant
+cart

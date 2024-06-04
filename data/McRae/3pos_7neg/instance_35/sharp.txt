@@ -1,0 +1,11 @@
+knife
+pin
+scissors
+
+remote
+motorcycle
+sardine
+clam
+jacket
+wand
+sweater

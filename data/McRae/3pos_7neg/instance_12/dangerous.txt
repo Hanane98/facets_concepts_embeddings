@@ -1,0 +1,11 @@
+motorcycle
+cheetah
+rocket
+
+toothbrush
+nectarine
+refrigerator
+plum
+elk
+shelves
+crowbar

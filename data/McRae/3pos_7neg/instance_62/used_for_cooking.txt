@@ -1,0 +1,11 @@
+mixer
+pot
+oven
+
+cabin
+pear
+jeans
+crow
+barrel
+projector
+goose

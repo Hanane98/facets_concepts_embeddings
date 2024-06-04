@@ -1,0 +1,11 @@
+wasp
+eagle
+kite
+
+ship
+beaver
+baton
+pin
+thermometer
+clamp
+curtains

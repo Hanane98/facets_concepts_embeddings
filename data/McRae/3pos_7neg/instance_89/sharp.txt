@@ -1,0 +1,11 @@
+blender
+pin
+scissors
+
+wagon
+swan
+lion
+olive
+lantern
+wall
+dove

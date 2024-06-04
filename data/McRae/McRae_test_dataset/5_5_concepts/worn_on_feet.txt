@@ -1,0 +1,11 @@
+socks
+skis
+boots
+slippers
+socks
+
+chimp
+pan
+whale
+fox
+sheep

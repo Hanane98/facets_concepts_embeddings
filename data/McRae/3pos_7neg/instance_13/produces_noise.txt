@@ -1,0 +1,11 @@
+ambulance
+bagpipe
+hair_drier
+
+coat
+nightgown
+ant
+onions
+cauliflower
+grater
+cantaloupe

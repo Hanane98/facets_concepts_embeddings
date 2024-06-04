@@ -1,0 +1,11 @@
+turtle
+hyena
+walrus
+submarine
+
+rabbit
+bowl
+bungalow
+dagger
+pencil
+house

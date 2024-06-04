@@ -1,0 +1,11 @@
+dagger
+pin
+scissors
+
+dress
+giraffe
+brick
+toad
+mug
+gown
+carpet

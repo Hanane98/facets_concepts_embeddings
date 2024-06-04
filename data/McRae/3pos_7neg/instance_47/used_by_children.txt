@@ -1,0 +1,11 @@
+sled
+pencil
+earmuffs
+
+pig
+anchor
+scarf
+cellar
+taxi
+alligator
+grapefruit

@@ -1,0 +1,11 @@
+axe
+scissors
+grater
+
+fox
+taxi
+frog
+baseball_glove
+bureau
+revolver
+napkin

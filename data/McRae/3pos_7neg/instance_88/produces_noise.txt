@@ -1,0 +1,11 @@
+hair_drier
+cannon
+ambulance
+
+jacket
+frisbee
+hose
+pajamas
+barn
+hoe
+teddy_bear

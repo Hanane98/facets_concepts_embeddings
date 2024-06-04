@@ -1,0 +1,11 @@
+tiger
+revolver
+motorcycle
+
+pen
+banjo
+celery
+bra
+parking_meter
+microscope
+vase

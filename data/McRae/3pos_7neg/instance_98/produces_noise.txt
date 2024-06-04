@@ -1,0 +1,11 @@
+harp
+hair_drier
+bomb
+
+teddy_bear
+hot_dog
+candle
+squid
+camisole
+cage
+helmet

@@ -1,0 +1,11 @@
+bag
+skunk
+rattle
+
+pier
+whale
+microwave
+leopard
+moose
+wheelbarrow
+barn

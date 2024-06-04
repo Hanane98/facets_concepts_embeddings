@@ -1,0 +1,11 @@
+pin
+razor
+grater
+
+fridge
+veil
+tripod
+chair
+apartment
+harpsichord
+bison

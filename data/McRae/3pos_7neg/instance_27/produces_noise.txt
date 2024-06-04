@@ -1,0 +1,11 @@
+helicopter
+piano
+hair_drier
+
+dandelion
+squid
+shell
+jar
+pie
+house
+cigarette

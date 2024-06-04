@@ -1,0 +1,11 @@
+ship
+frog
+goldfish
+
+cantaloupe
+mirror
+potted_plant
+mat
+cape
+apron
+drum

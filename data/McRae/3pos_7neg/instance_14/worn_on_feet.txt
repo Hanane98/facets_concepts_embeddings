@@ -1,0 +1,11 @@
+boots
+skis
+socks
+
+apartment
+grasshopper
+ostrich
+calf
+sheep
+chipmunk
+nectarine

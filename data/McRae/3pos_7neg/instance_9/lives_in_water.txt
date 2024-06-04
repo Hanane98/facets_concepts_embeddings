@@ -1,0 +1,11 @@
+ship
+walrus
+lobster
+
+skirt
+garlic
+balloon
+hose
+nightgown
+traffic_light
+refrigerator

@@ -1,0 +1,11 @@
+doll
+buggy
+tricycle
+
+bull
+buffalo
+subway
+elevator
+turtle
+chimp
+menu

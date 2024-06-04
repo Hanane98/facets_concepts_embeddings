@@ -1,0 +1,11 @@
+grater
+bayonet
+balloon
+cup
+telephone
+
+crow
+necklace
+belt
+tiger
+dresser

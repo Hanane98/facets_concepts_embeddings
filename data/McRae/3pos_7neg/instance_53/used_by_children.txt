@@ -1,0 +1,11 @@
+buggy
+pencil
+skateboard
+
+box
+panther
+tripod
+banjo
+grater
+carrot
+hook

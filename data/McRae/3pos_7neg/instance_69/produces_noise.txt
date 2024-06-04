@@ -1,0 +1,11 @@
+grenade
+hair_drier
+flute
+
+magazine
+shrimp
+cigarette
+cucumber
+paintbrush
+tomato
+salamander

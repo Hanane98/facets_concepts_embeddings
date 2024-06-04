@@ -1,0 +1,11 @@
+bathtub
+kettle
+cigar
+
+tortoise
+traffic_light
+gate
+saddle
+cart
+rabbit
+peach

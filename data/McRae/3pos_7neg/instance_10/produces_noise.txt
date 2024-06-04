@@ -1,0 +1,11 @@
+trombone
+stereo
+ambulance
+
+rabbit
+bracelet
+sleigh
+tie
+potted_plant
+tomato
+wheel

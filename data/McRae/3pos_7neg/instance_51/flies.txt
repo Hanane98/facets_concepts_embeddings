@@ -1,0 +1,11 @@
+balloon
+eagle
+moth
+
+bicycle
+belt
+swimsuit
+unicycle
+rice
+salamander
+pants

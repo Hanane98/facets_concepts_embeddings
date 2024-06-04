@@ -1,0 +1,11 @@
+gun
+motorcycle
+cheetah
+
+coin
+toothbrush
+vine
+spatula
+crayon
+bag
+fawn

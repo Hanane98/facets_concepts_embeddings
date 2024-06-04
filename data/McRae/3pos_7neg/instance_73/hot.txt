@@ -1,0 +1,11 @@
+candle
+oven
+bathtub
+
+chimp
+sandals
+swimsuit
+curtains
+tongs
+harp
+penguin

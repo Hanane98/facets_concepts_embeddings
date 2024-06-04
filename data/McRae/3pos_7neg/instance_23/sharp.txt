@@ -1,0 +1,11 @@
+grater
+razor
+machete
+
+elevator
+fence
+potato
+pyramid
+raspberry
+iguana
+penguin

@@ -1,0 +1,11 @@
+clarinet
+bomb
+ambulance
+
+rock
+crown
+stone
+cellar
+shield
+coat
+mandarin

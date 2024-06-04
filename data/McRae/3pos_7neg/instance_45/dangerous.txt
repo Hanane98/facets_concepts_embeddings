@@ -1,0 +1,11 @@
+motorcycle
+alligator
+grenade
+
+vest
+parka
+boat
+helmet
+cabbage
+rope
+chicken

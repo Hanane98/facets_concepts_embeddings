@@ -1,0 +1,11 @@
+yacht
+seal
+whale
+
+tent
+bench
+ant
+stereo
+piano
+brick
+drill

@@ -1,0 +1,11 @@
+bathtub
+toaster
+cigar
+
+door
+dagger
+fridge
+crab
+gloves
+pillow
+trolley

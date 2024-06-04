@@ -1,0 +1,11 @@
+spoon
+colander
+microwave
+
+scissors
+shack
+hook
+motorcycle
+bra
+stereo
+veil

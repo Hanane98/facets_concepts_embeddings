@@ -1,0 +1,11 @@
+ambulance
+hair_drier
+harp
+
+carrot
+shed
+candle
+bayonet
+skillet
+lantern
+scarf

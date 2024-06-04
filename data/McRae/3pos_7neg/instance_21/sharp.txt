@@ -1,0 +1,11 @@
+razor
+pin
+sword
+
+jeep
+elevator
+squid
+rabbit
+strainer
+cork
+shack

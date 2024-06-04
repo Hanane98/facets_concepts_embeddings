@@ -1,0 +1,11 @@
+ambulance
+jeep
+limousine
+missile
+
+peg
+mandarin
+wrench
+violin
+bomb
+bedroom

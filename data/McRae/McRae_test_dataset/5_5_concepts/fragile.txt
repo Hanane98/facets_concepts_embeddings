@@ -1,0 +1,11 @@
+dish
+biscuit
+cigarette
+peas
+nectarine
+
+accordion
+saddle
+walnut
+sweater
+freezer

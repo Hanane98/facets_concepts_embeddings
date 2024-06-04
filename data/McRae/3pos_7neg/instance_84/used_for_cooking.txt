@@ -1,0 +1,11 @@
+apron
+toaster
+mixer
+
+pen
+apartment
+dress
+stone
+baseball_glove
+hawk
+bracelet

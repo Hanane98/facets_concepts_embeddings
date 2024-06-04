@@ -1,0 +1,11 @@
+stereo
+bomb
+flute
+
+screwdriver
+cheese
+crayon
+fence
+bureau
+pot
+trout

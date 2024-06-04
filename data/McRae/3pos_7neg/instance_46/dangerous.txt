@@ -1,0 +1,11 @@
+tiger
+motorcycle
+baseball_bat
+
+asparagus
+hut
+cloak
+mirror
+turtle
+fence
+biscuit

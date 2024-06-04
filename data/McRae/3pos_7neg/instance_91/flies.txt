@@ -1,0 +1,11 @@
+helicopter
+frisbee
+duck
+
+cloak
+revolver
+buggy
+snail
+bull
+pepper
+celery

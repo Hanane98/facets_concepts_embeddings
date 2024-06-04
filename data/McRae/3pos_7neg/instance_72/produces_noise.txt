@@ -1,0 +1,11 @@
+clarinet
+helicopter
+cell_phone
+
+bowl
+rock
+strawberry
+projector
+box
+thimble
+brick

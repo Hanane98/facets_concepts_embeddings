@@ -1,0 +1,11 @@
+skis
+socks
+slippers
+
+escalator
+raft
+desk
+sheep
+radio
+mouse
+mixer

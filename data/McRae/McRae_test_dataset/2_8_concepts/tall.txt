@@ -1,0 +1,11 @@
+umbrella
+barn
+
+sheep
+housefly
+thimble
+spider
+pan
+motorcycle
+falcon
+pen

@@ -1,0 +1,11 @@
+skillet
+apron
+toaster
+
+sword
+whale
+pliers
+table
+telephone
+duck
+stop_sign

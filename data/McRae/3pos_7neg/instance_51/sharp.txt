@@ -1,0 +1,11 @@
+chisel
+axe
+grater
+
+rock
+grapefruit
+shirt
+cart
+brick
+cork
+taxi

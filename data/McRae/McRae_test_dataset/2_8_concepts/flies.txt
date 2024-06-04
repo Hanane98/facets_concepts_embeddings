@@ -1,0 +1,11 @@
+moth
+flamingo
+
+unicycle
+clamp
+carrot
+turnip
+traffic_light
+bag
+gate
+pumpkin

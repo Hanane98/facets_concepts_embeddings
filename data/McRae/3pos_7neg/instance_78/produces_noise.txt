@@ -1,0 +1,11 @@
+helicopter
+bagpipe
+hair_drier
+
+stone
+potato
+shield
+surfboard
+shovel
+lantern
+buckle

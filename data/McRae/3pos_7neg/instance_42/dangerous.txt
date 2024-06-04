@@ -1,0 +1,11 @@
+bull
+motorcycle
+shotgun
+
+jacket
+cupboard
+house
+chapel
+necklace
+shirt
+hair_drier

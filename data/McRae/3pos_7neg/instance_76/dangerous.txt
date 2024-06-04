@@ -1,0 +1,11 @@
+knife
+crocodile
+motorcycle
+
+toaster
+sandwich
+harpsichord
+vine
+mushroom
+yam
+pig

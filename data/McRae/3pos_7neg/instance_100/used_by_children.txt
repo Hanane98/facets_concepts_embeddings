@@ -1,0 +1,11 @@
+skateboard
+balloon
+buggy
+
+bear
+tiger
+trailer
+cage
+rooster
+caribou
+stop_sign

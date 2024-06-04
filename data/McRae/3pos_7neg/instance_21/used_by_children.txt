@@ -1,0 +1,11 @@
+buggy
+balloon
+tricycle
+
+skunk
+chain
+salmon
+rooster
+pigeon
+squid
+cucumber

@@ -1,0 +1,11 @@
+cage
+dresser
+
+squirrel
+sandwich
+swimsuit
+rooster
+missile
+shovel
+tuna
+boots

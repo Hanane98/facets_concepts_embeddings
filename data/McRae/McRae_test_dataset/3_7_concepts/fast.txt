@@ -1,0 +1,11 @@
+falcon
+sleigh
+crow
+
+crowbar
+sword
+dish
+donkey
+banjo
+doll
+traffic_light

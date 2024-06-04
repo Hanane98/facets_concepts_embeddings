@@ -1,0 +1,11 @@
+swan
+salmon
+clam
+
+bus
+potted_plant
+screws
+thimble
+chandelier
+grenade
+apartment

@@ -1,0 +1,11 @@
+crocodile
+salmon
+yacht
+
+ant
+thermometer
+marble
+cellar
+vine
+beets
+tongs

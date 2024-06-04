@@ -1,0 +1,11 @@
+airplane
+pigeon
+moth
+
+typewriter
+pin
+bull
+peg
+bottle
+beehive
+saddle

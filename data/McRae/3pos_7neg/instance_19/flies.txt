@@ -1,0 +1,11 @@
+jet
+falcon
+butterfly
+
+carpet
+cigarette
+dining_table
+honeydew
+pillow
+hut
+suitcase

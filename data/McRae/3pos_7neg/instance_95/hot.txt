@@ -1,0 +1,11 @@
+cigar
+bathtub
+toaster
+
+horse
+pigeon
+tray
+brick
+cauliflower
+walrus
+traffic_light

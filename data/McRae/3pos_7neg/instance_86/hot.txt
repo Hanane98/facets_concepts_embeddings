@@ -1,0 +1,11 @@
+kettle
+candle
+bathtub
+
+door
+rat
+napkin
+chimp
+coyote
+sword
+bear

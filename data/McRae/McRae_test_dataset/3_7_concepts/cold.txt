@@ -1,0 +1,11 @@
+person
+dish
+donkey
+
+giraffe
+tennis_racket
+emerald
+jacket
+shack
+skillet
+cushion

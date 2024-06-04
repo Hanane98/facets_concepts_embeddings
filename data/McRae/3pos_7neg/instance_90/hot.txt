@@ -1,0 +1,11 @@
+toaster
+bathtub
+candle
+
+cabbage
+snail
+gorilla
+alligator
+inn
+fence
+belt

@@ -1,0 +1,11 @@
+helicopter
+kite
+hornet
+
+pliers
+hare
+octopus
+sports_ball
+eggplant
+skis
+cherry

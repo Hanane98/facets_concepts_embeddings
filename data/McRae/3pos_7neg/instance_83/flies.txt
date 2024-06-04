@@ -1,0 +1,11 @@
+hornet
+bird
+balloon
+
+doorknob
+strawberry
+drapes
+shield
+typewriter
+toothbrush
+taxi

@@ -1,0 +1,11 @@
+lion
+motorcycle
+bullet
+
+sleigh
+skyscraper
+flute
+ambulance
+canoe
+bedroom
+fire_hydrant

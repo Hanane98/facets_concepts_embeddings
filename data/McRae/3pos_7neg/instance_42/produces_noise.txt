@@ -1,0 +1,11 @@
+airplane
+bomb
+harp
+
+flea
+mirror
+squid
+crowbar
+orange
+oven
+grapefruit

@@ -1,0 +1,11 @@
+rope
+mirror
+
+grape
+swimsuit
+tuna
+mat
+hut
+bread
+gun
+tortoise

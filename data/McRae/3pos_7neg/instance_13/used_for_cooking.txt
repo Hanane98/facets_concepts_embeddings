@@ -1,0 +1,11 @@
+mixer
+spoon
+pot
+
+refrigerator
+seaweed
+rope
+airplane
+cabinet
+stop_sign
+panther

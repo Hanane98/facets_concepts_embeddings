@@ -1,0 +1,11 @@
+stereo
+flute
+grenade
+
+table
+lettuce
+sword
+menu
+honeydew
+donut
+tripod

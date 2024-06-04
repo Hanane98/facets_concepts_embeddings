@@ -1,0 +1,11 @@
+airplane
+accordion
+cell_phone
+
+buggy
+broccoli
+peach
+screwdriver
+snowboard
+flamingo
+lemon

@@ -1,0 +1,11 @@
+blender
+spatula
+pot
+
+backpack
+parka
+elephant
+camel
+wrench
+asparagus
+tricycle

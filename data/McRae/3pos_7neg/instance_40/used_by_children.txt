@@ -1,0 +1,11 @@
+paintbrush
+skateboard
+buggy
+
+flamingo
+elevator
+anchor
+belt
+ant
+scarf
+asparagus

@@ -1,0 +1,11 @@
+corn
+pizza
+octopus
+
+bag
+raccoon
+pants
+chair
+drill
+toothbrush
+remote

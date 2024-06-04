@@ -1,0 +1,11 @@
+moth
+owl
+missile
+
+dandelion
+couch
+corkscrew
+laptop
+dagger
+vase
+pot

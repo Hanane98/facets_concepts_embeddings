@@ -1,0 +1,11 @@
+stove
+bathtub
+candle
+
+tripod
+rabbit
+pigeon
+umbrella
+beaver
+turtle
+marble

@@ -1,0 +1,11 @@
+submarine
+crocodile
+sardine
+
+spear
+orange
+mushroom
+apple
+chisel
+taxi
+peas

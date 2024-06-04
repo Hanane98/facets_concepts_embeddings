@@ -1,0 +1,11 @@
+moose
+bazooka
+cello
+pistol
+subway
+
+kite
+rabbit
+banana
+hare
+razor

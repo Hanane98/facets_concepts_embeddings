@@ -1,0 +1,11 @@
+bomb
+cell_phone
+helicopter
+
+spider
+cigarette
+cellar
+raft
+handbag
+ashtray
+necklace

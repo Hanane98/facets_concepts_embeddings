@@ -1,0 +1,11 @@
+knife
+oven
+grater
+
+goldfish
+harmonica
+woodpecker
+elevator
+stop_sign
+swan
+walrus

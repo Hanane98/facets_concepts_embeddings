@@ -1,0 +1,11 @@
+goldfish
+lobster
+swan
+
+muzzle
+hoe
+basement
+rifle
+microwave
+fire_hydrant
+dog

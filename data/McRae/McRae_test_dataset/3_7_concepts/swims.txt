@@ -1,0 +1,11 @@
+clam
+octopus
+squid
+
+drain
+hammer
+bullet
+strainer
+football
+knife
+banana

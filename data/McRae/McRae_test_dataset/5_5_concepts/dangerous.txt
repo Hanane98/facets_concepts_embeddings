@@ -1,0 +1,11 @@
+bull
+octopus
+python
+wasp
+bison
+
+bureau
+pajamas
+traffic_light
+peas
+cellar

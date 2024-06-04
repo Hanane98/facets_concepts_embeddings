@@ -1,0 +1,11 @@
+screws
+door
+drapes
+moth
+
+cup
+asparagus
+platypus
+thimble
+coin
+violin

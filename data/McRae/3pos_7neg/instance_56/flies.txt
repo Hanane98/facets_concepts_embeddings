@@ -1,0 +1,11 @@
+kite
+wasp
+hawk
+
+turnip
+sports_ball
+elk
+sled
+sandwich
+hare
+dandelion

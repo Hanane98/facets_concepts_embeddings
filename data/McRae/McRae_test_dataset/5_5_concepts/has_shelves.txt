@@ -1,0 +1,11 @@
+cabinet
+shed
+apartment
+wall
+bedroom
+
+pear
+swimsuit
+barrel
+boat
+tiger

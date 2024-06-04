@@ -1,0 +1,11 @@
+crocodile
+motorcycle
+bullet
+
+cage
+sandals
+slippers
+basement
+shovel
+cranberry
+yam

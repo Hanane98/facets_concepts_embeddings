@@ -1,0 +1,11 @@
+bowl
+apron
+oven
+
+dress
+person
+mirror
+teddy_bear
+subway
+scooter
+microscope

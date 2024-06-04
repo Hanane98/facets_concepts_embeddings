@@ -1,0 +1,11 @@
+lion
+sword
+motorcycle
+
+chandelier
+skillet
+grater
+garage
+beans
+hot_dog
+snail

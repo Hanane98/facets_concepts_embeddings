@@ -1,0 +1,11 @@
+bathtub
+cigar
+stove
+
+parking_meter
+sheep
+spider
+harpoon
+rattle
+buggy
+lime

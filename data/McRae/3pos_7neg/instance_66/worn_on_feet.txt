@@ -1,0 +1,11 @@
+sandals
+snowboard
+socks
+
+trolley
+pizza
+knife
+umbrella
+wheel
+bomb
+whale

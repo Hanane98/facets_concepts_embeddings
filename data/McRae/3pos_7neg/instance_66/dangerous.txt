@@ -1,0 +1,11 @@
+baseball_bat
+alligator
+motorcycle
+
+paintbrush
+sailboat
+violin
+toilet
+telephone
+strawberry
+plum

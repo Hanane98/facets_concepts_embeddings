@@ -1,0 +1,11 @@
+bagpipe
+bomb
+stereo
+
+toothbrush
+carrot
+raft
+barrel
+tennis_racket
+hatchet
+cranberry

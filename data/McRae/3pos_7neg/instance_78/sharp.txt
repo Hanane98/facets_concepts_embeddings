@@ -1,0 +1,11 @@
+pin
+corkscrew
+razor
+
+pearl
+gloves
+potted_plant
+motorcycle
+squirrel
+canoe
+rabbit

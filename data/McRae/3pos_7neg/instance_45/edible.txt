@@ -1,0 +1,11 @@
+orange
+pig
+biscuit
+
+skunk
+cell_phone
+microwave
+baseball_bat
+bathtub
+building
+basket

@@ -1,0 +1,11 @@
+crayon
+buggy
+balloon
+
+duck
+horse
+rock
+grenade
+flamingo
+pig
+salamander

@@ -1,0 +1,11 @@
+skis
+boots
+nylons
+
+teddy_bear
+pot
+goldfish
+inn
+cell_phone
+fork
+tree

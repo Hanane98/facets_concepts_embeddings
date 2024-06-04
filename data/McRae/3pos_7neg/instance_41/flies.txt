@@ -1,0 +1,11 @@
+pigeon
+missile
+wasp
+
+bike
+scarf
+turnip
+tiger
+yacht
+fence
+table

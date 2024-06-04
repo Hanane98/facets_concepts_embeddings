@@ -1,0 +1,11 @@
+scissors
+machete
+pin
+
+stick
+plate
+caribou
+cockroach
+catapult
+prune
+bench

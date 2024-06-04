@@ -1,0 +1,11 @@
+hair_drier
+helicopter
+bomb
+
+magazine
+shoes
+house
+traffic_light
+cantaloupe
+ant
+sword

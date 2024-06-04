@@ -1,0 +1,11 @@
+kettle
+skillet
+apron
+
+tray
+sleigh
+cushion
+spade
+walrus
+sofa
+bungalow

@@ -1,0 +1,11 @@
+revolver
+beehive
+motorcycle
+
+tangerine
+sweater
+tennis_racket
+corkscrew
+gopher
+prune
+olive

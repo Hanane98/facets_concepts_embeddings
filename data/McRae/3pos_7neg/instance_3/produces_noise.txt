@@ -1,0 +1,11 @@
+bomb
+stereo
+ambulance
+
+medal
+salmon
+nightgown
+orange
+wine_glass
+tuna
+trout

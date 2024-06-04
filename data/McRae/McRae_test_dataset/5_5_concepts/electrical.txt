@@ -1,0 +1,11 @@
+bus
+oven
+yacht
+keyboard
+elevator
+
+flute
+frog
+pyramid
+grater
+corkscrew

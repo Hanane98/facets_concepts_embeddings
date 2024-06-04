@@ -1,0 +1,11 @@
+chain
+cheese
+stop_sign
+toilet
+freezer
+
+pigeon
+flute
+housefly
+napkin
+coin

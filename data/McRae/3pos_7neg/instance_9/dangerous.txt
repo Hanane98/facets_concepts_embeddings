@@ -1,0 +1,11 @@
+lion
+motorcycle
+baseball_bat
+
+clam
+football
+house
+boots
+pants
+bench
+chair

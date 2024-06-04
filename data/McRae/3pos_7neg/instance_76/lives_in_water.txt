@@ -1,0 +1,11 @@
+sailboat
+crab
+eel
+
+gate
+key
+pants
+stone
+skunk
+taxi
+pie

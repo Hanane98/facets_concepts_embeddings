@@ -1,0 +1,11 @@
+shoes
+boots
+slippers
+shoes
+
+hyena
+goat
+bike
+ashtray
+bathtub
+python

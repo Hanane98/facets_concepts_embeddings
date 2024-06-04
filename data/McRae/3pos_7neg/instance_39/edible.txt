@@ -1,0 +1,11 @@
+turkey
+potato
+biscuit
+
+car
+saxophone
+wagon
+traffic_light
+harmonica
+telephone
+snowboard

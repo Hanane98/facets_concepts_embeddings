@@ -1,0 +1,11 @@
+panther
+sheep
+owl
+
+tennis_racket
+eggplant
+bottle
+celery
+hose
+shack
+swimsuit

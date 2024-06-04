@@ -1,0 +1,11 @@
+bullet
+crossbow
+
+banner
+orange
+bedroom
+whale
+eagle
+drill
+motorcycle
+veil

@@ -1,0 +1,11 @@
+otter
+boat
+lobster
+
+cello
+clock
+sofa
+elevator
+bungalow
+basement
+bathtub

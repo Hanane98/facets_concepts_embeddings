@@ -1,0 +1,11 @@
+clam
+beets
+bread
+
+accordion
+baseball_bat
+shirt
+dish
+worm
+otter
+trailer

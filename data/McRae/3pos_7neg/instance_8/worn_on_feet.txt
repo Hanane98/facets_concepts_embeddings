@@ -1,0 +1,11 @@
+boots
+skis
+socks
+
+cart
+baseball_bat
+lamp
+tack
+butterfly
+gun
+beets

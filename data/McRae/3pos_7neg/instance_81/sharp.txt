@@ -1,0 +1,11 @@
+pin
+blender
+sword
+
+mixer
+baseball_bat
+chimp
+swimsuit
+buffalo
+closet
+cannon

@@ -1,0 +1,11 @@
+bathtub
+candle
+oven
+
+banana
+cloak
+rat
+muzzle
+swan
+barrel
+corkscrew

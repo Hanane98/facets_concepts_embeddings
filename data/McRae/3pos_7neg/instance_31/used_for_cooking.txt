@@ -1,0 +1,11 @@
+bowl
+apron
+blender
+
+house
+skirt
+apple
+pumpkin
+jeep
+mushroom
+sack

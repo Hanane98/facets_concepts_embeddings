@@ -1,0 +1,11 @@
+cell_phone
+ambulance
+accordion
+
+scissors
+bag
+shovel
+sailboat
+tack
+bridge
+garlic

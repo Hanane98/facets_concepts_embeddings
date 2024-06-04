@@ -1,0 +1,11 @@
+bear
+motorcycle
+rocket
+
+apple
+tomato
+giraffe
+shield
+bagpipe
+crowbar
+sailboat

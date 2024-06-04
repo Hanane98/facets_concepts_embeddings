@@ -1,0 +1,11 @@
+balloon
+dove
+hornet
+
+calf
+toilet
+tie
+mittens
+bed
+swimsuit
+cloak

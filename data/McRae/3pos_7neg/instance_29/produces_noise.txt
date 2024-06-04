@@ -1,0 +1,11 @@
+hair_drier
+piano
+grenade
+
+couch
+hatchet
+flea
+salmon
+coin
+biscuit
+pizza

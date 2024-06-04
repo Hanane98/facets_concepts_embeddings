@@ -1,0 +1,11 @@
+pizza
+beans
+shrimp
+
+hair_drier
+crowbar
+nightgown
+gloves
+cart
+crayon
+dishwasher

@@ -1,0 +1,11 @@
+pen
+screwdriver
+hatchet
+knife
+scissors
+
+piano
+revolver
+squid
+trout
+typewriter

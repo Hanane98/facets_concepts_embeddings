@@ -1,0 +1,11 @@
+stove
+cigar
+bathtub
+
+shoes
+otter
+parking_meter
+vase
+wagon
+rocker
+apple

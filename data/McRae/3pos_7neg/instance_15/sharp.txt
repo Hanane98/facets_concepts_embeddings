@@ -1,0 +1,11 @@
+scissors
+machete
+razor
+
+bowl
+mushroom
+closet
+kite
+pizza
+tie
+hot_dog

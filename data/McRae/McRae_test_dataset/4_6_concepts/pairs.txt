@@ -1,0 +1,11 @@
+biscuit
+traffic_light
+biscuit
+escalator
+
+fawn
+bedroom
+pickle
+bus
+muzzle
+oven

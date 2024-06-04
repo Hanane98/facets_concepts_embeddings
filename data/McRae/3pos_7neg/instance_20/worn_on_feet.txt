@@ -1,0 +1,11 @@
+nylons
+snowboard
+sandals
+
+stop_sign
+gopher
+rabbit
+broccoli
+chandelier
+stove
+goldfish

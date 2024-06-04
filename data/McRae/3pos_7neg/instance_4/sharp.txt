@@ -1,0 +1,11 @@
+razor
+bayonet
+pin
+
+caribou
+couch
+cannon
+rope
+wheel
+brush
+submarine

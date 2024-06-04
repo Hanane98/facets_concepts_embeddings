@@ -1,0 +1,11 @@
+bayonet
+cork
+peg
+tongs
+
+yam
+shrimp
+python
+snowboard
+dolphin
+cucumber

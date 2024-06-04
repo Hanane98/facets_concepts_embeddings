@@ -1,0 +1,11 @@
+bathtub
+candle
+oven
+
+cupboard
+walrus
+fence
+bolts
+jeans
+piano
+snowboard

@@ -1,0 +1,11 @@
+razor
+machete
+screwdriver
+
+laptop
+skirt
+thermometer
+dining_table
+dandelion
+sleigh
+violin

@@ -1,0 +1,11 @@
+moth
+kite
+bird
+
+inn
+escalator
+pin
+socks
+oven
+hair_drier
+potted_plant

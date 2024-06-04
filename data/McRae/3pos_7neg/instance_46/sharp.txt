@@ -1,0 +1,11 @@
+sword
+scissors
+pin
+
+earmuffs
+octopus
+strawberry
+wine_glass
+woodpecker
+cheetah
+wheelbarrow

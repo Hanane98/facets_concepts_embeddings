@@ -1,0 +1,11 @@
+beets
+salmon
+biscuit
+
+parka
+shotgun
+caterpillar
+bison
+skirt
+shell
+hut

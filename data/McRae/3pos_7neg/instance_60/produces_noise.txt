@@ -1,0 +1,11 @@
+accordion
+helicopter
+bomb
+
+mandarin
+closet
+plate
+apartment
+robe
+stove
+scarf

@@ -1,0 +1,11 @@
+cannon
+clarinet
+cell_phone
+
+bucket
+boots
+yam
+chapel
+rice
+napkin
+goldfish

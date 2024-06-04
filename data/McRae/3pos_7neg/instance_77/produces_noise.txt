@@ -1,0 +1,11 @@
+grenade
+cell_phone
+helicopter
+
+baseball_bat
+pajamas
+bottle
+frisbee
+rice
+hook
+coat

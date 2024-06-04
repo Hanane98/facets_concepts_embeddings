@@ -1,0 +1,11 @@
+mushroom
+sandwich
+lamb
+
+cell_phone
+vine
+chisel
+moth
+drill
+cigar
+peg

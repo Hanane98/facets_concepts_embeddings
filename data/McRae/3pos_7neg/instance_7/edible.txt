@@ -1,0 +1,11 @@
+cow
+pizza
+pepper
+
+balloon
+carpet
+bus
+backpack
+rocket
+machete
+box

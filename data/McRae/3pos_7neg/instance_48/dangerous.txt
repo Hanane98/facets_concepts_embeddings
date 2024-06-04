@@ -1,0 +1,11 @@
+motorcycle
+bear
+pistol
+
+bungalow
+dolphin
+cake
+platypus
+shack
+sports_ball
+onions

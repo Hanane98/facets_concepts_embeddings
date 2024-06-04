@@ -1,0 +1,11 @@
+motorcycle
+harpoon
+beehive
+
+wine_glass
+teddy_bear
+jacket
+kite
+bridge
+peacock
+dish

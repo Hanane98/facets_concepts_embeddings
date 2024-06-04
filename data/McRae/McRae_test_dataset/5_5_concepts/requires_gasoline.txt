@@ -1,0 +1,11 @@
+car
+jet
+ship
+limousine
+motorcycle
+
+cauliflower
+shotgun
+thimble
+paintbrush
+whale

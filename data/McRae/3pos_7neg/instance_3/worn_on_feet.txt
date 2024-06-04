@@ -1,0 +1,11 @@
+skis
+nylons
+boots
+
+cape
+pear
+sled
+gate
+banjo
+bomb
+teddy_bear

@@ -1,0 +1,11 @@
+mixer
+oven
+tongs
+
+swan
+sweater
+seagull
+box
+hut
+catapult
+napkin

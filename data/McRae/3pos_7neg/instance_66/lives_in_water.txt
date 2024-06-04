@@ -1,0 +1,11 @@
+salamander
+boat
+whale
+
+umbrella
+potted_plant
+harpoon
+mirror
+toaster
+bracelet
+harmonica

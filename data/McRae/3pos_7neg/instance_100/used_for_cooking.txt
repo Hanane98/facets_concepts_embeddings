@@ -1,0 +1,11 @@
+apron
+stove
+blender
+
+bathtub
+racquet
+asparagus
+shirt
+dining_table
+turtle
+tuna

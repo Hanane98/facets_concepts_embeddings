@@ -1,0 +1,11 @@
+rice
+cheese
+pig
+
+basement
+moth
+car
+gate
+cushion
+sweater
+strainer

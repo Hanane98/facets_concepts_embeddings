@@ -1,0 +1,11 @@
+pencil
+skateboard
+buggy
+
+spatula
+jeep
+bird
+frog
+vest
+beetle
+ship

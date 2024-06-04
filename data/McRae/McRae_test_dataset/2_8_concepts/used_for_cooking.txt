@@ -1,0 +1,11 @@
+ladle
+blender
+
+wheel
+hair_drier
+freezer
+shoes
+shell
+crow
+pizza
+bus

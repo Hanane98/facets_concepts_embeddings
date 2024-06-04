@@ -1,0 +1,11 @@
+airplane
+bomb
+clarinet
+
+spider
+boots
+brick
+paintbrush
+tennis_racket
+banana
+shield

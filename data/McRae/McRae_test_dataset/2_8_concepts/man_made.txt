@@ -1,0 +1,11 @@
+fridge
+shield
+
+flamingo
+rat
+seal
+otter
+cucumber
+apple
+crab
+goldfish

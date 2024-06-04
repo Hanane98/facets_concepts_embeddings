@@ -1,0 +1,11 @@
+candle
+kettle
+bathtub
+
+fire_hydrant
+parka
+plum
+pyramid
+elevator
+tree
+earmuffs

@@ -1,0 +1,11 @@
+cell_phone
+ambulance
+grenade
+
+coconut
+cockroach
+ball
+pot
+scissors
+ladle
+scarf

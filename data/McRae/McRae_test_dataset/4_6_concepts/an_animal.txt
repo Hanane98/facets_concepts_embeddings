@@ -1,0 +1,11 @@
+cockroach
+coyote
+leopard
+panther
+
+cork
+grenade
+guitar
+pants
+submarine
+bomb

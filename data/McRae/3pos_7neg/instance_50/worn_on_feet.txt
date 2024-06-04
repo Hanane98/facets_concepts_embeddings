@@ -1,0 +1,11 @@
+nylons
+boots
+skis
+
+magazine
+strainer
+flamingo
+tennis_racket
+ant
+radish
+spinach

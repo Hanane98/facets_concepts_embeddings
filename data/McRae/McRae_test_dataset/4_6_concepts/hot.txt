@@ -1,0 +1,11 @@
+cigar
+jacket
+skillet
+dishwasher
+
+kite
+donkey
+keyboard
+tuna
+bag
+wheelbarrow

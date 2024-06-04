@@ -1,0 +1,11 @@
+shoes
+skis
+socks
+
+radio
+baseball_glove
+pencil
+blender
+bicycle
+bowl
+accordion

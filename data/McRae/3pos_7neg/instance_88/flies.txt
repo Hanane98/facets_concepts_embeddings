@@ -1,0 +1,11 @@
+balloon
+helicopter
+hornet
+
+pony
+crocodile
+pepper
+fire_hydrant
+buffalo
+coat
+gun

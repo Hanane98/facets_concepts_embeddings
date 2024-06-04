@@ -1,0 +1,11 @@
+shoes
+socks
+snowboard
+
+sweater
+rocket
+bayonet
+desk
+cell_phone
+coyote
+crow

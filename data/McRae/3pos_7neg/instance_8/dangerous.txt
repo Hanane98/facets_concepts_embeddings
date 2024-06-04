@@ -1,0 +1,11 @@
+crocodile
+motorcycle
+axe
+
+handbag
+bouquet
+bucket
+cushion
+beetle
+trout
+rattle

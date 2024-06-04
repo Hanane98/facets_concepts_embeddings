@@ -1,0 +1,11 @@
+spear
+pin
+razor
+
+unicycle
+rocker
+bear
+elephant
+panther
+level
+duck

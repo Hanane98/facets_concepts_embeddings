@@ -1,0 +1,11 @@
+mixer
+oven
+strainer
+
+drum
+belt
+pear
+strawberry
+barn
+eagle
+closet

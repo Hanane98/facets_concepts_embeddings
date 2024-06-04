@@ -1,0 +1,11 @@
+octopus
+biscuit
+corn
+
+medal
+projector
+beetle
+dining_table
+falcon
+cabin
+spear

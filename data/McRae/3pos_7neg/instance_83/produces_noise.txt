@@ -1,0 +1,11 @@
+hair_drier
+airplane
+bagpipe
+
+muzzle
+balloon
+remote
+mittens
+pickle
+dresser
+skyscraper

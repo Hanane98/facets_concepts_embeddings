@@ -1,0 +1,11 @@
+tortoise
+skunk
+clam
+sandals
+saddle
+
+handbag
+cell_phone
+coin
+skis
+vest

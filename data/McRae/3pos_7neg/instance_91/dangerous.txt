@@ -1,0 +1,11 @@
+motorcycle
+crocodile
+rocket
+
+cow
+mug
+wagon
+subway
+seal
+book
+van

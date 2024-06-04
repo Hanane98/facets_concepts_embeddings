@@ -1,0 +1,11 @@
+razor
+chisel
+blender
+
+raisin
+sports_ball
+marble
+ball
+seaweed
+sweater
+bison

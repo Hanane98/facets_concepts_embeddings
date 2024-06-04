@@ -1,0 +1,11 @@
+rattlesnake
+bazooka
+motorcycle
+
+cushion
+ambulance
+jeans
+helmet
+traffic_light
+bolts
+pyramid

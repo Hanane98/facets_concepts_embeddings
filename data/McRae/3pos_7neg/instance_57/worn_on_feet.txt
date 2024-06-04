@@ -1,0 +1,11 @@
+shoes
+socks
+snowboard
+
+plate
+canoe
+faucet
+seagull
+wine_glass
+worm
+screws

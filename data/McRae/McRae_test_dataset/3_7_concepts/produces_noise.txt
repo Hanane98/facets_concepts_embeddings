@@ -1,0 +1,11 @@
+sink
+telephone
+crow
+
+lantern
+cucumber
+bra
+trout
+eggplant
+sandwich
+vase

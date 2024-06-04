@@ -1,0 +1,11 @@
+clam
+peas
+pizza
+
+sports_ball
+rake
+spider
+earmuffs
+microscope
+fire_hydrant
+urn

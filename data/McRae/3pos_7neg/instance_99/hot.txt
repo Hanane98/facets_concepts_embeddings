@@ -1,0 +1,11 @@
+candle
+stove
+bathtub
+
+potted_plant
+cabbage
+colander
+porcupine
+cage
+shirt
+strainer

@@ -1,0 +1,11 @@
+ambulance
+grenade
+cell_phone
+
+candle
+teddy_bear
+tuna
+blueberry
+cigarette
+pumpkin
+necklace

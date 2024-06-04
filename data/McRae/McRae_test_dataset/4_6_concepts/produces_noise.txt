@@ -1,0 +1,11 @@
+escalator
+whistle
+cello
+duck
+
+pearl
+clam
+spatula
+biscuit
+hot_dog
+baseball_glove

@@ -1,0 +1,11 @@
+pizza
+celery
+deer
+
+traffic_light
+hamster
+microscope
+shield
+toaster
+tortoise
+gate

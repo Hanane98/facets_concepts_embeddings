@@ -1,0 +1,11 @@
+yacht
+clam
+sardine
+
+mandarin
+screwdriver
+fire_hydrant
+tie
+barn
+python
+mirror

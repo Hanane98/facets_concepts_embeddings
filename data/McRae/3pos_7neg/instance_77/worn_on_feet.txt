@@ -1,0 +1,11 @@
+socks
+boots
+snowboard
+
+buggy
+dolphin
+clam
+sports_ball
+stick
+pistol
+prune

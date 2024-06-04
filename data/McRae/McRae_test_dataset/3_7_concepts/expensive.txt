@@ -1,0 +1,11 @@
+trumpet
+bridge
+house
+
+envelope
+crocodile
+stone
+crayon
+wand
+penguin
+lemon

@@ -1,0 +1,11 @@
+hair_drier
+bagpipe
+helicopter
+
+coin
+vase
+skillet
+pants
+parka
+nectarine
+projector

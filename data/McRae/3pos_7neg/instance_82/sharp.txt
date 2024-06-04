@@ -1,0 +1,11 @@
+pin
+blender
+scissors
+
+submarine
+vase
+parking_meter
+boots
+whip
+colander
+hyena

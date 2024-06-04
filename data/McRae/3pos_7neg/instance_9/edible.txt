@@ -1,0 +1,11 @@
+hot_dog
+strawberry
+sardine
+
+box
+motorcycle
+sled
+potted_plant
+thimble
+ashtray
+robe

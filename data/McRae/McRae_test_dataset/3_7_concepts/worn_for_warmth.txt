@@ -1,0 +1,11 @@
+socks
+parka
+boots
+
+sack
+hair_drier
+shed
+skateboard
+limousine
+bucket
+strainer

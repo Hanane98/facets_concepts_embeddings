@@ -1,0 +1,11 @@
+crocodile
+octopus
+ship
+
+screwdriver
+dining_table
+grasshopper
+escalator
+machete
+saxophone
+level

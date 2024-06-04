@@ -1,0 +1,11 @@
+harp
+helicopter
+bomb
+
+screws
+bracelet
+desk
+coin
+turnip
+pencil
+doll

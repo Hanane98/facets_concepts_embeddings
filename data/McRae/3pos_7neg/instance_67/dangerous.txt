@@ -1,0 +1,11 @@
+motorcycle
+bazooka
+rattlesnake
+
+shell
+corkscrew
+gloves
+shield
+ambulance
+radio
+bread

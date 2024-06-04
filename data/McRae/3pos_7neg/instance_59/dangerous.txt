@@ -1,0 +1,11 @@
+rifle
+motorcycle
+alligator
+
+turtle
+peas
+pliers
+ship
+hare
+pear
+suitcase

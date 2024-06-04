@@ -1,0 +1,11 @@
+mixer
+knife
+apron
+
+shotgun
+shoes
+apartment
+door
+hatchet
+bike
+grenade

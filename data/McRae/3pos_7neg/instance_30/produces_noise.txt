@@ -1,0 +1,11 @@
+ambulance
+harp
+grenade
+
+projector
+potted_plant
+mat
+cigar
+bed
+blouse
+helmet

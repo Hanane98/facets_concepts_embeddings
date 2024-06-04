@@ -1,0 +1,11 @@
+shirt
+socks
+robe
+parka
+coat
+
+cow
+clock
+strawberry
+butterfly
+dolphin

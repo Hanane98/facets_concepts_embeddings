@@ -1,0 +1,11 @@
+pig
+garlic
+pizza
+
+bookcase
+chain
+raft
+blender
+tongs
+hammer
+clock

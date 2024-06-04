@@ -1,0 +1,11 @@
+piano
+cell_phone
+helicopter
+
+orange
+hatchet
+certificate
+octopus
+peach
+belt
+nectarine

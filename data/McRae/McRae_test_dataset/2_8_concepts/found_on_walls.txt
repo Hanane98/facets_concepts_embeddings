@@ -1,0 +1,11 @@
+door
+banner
+
+bracelet
+avocado
+handbag
+baseball_bat
+salmon
+banana
+pencil
+pajamas

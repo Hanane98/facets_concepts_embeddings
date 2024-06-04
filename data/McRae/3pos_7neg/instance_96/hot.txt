@@ -1,0 +1,11 @@
+bathtub
+candle
+oven
+
+book
+pear
+elevator
+donkey
+brick
+salamander
+scarf

@@ -1,0 +1,11 @@
+bayonet
+pin
+razor
+
+yacht
+clam
+cello
+lobster
+jacket
+rocket
+bag

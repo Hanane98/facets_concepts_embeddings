@@ -1,0 +1,11 @@
+nylons
+snowboard
+shoes
+
+ostrich
+seal
+boat
+umbrella
+toy
+hair_drier
+fork

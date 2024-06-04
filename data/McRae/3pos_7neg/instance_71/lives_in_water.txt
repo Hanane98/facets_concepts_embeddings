@@ -1,0 +1,11 @@
+salamander
+dolphin
+squid
+
+blender
+bowl
+cat
+crow
+bird
+woodpecker
+razor

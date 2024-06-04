@@ -1,0 +1,11 @@
+airplane
+balloon
+peacock
+
+spider
+tree
+revolver
+keyboard
+cabbage
+escalator
+baton

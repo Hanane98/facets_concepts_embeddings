@@ -1,0 +1,11 @@
+paintbrush
+doll
+sled
+
+spade
+axe
+skyscraper
+wasp
+shawl
+spatula
+mushroom

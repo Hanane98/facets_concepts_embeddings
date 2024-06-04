@@ -1,0 +1,11 @@
+ambulance
+bagpipe
+grenade
+
+gloves
+pearl
+sword
+shell
+helmet
+teddy_bear
+pear

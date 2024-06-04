@@ -1,0 +1,11 @@
+buggy
+pencil
+doll
+
+dagger
+gun
+fire_hydrant
+chain
+goat
+yacht
+beets

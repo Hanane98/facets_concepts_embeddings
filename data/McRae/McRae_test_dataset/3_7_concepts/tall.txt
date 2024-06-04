@@ -1,0 +1,11 @@
+drapes
+house
+camel
+
+carpet
+axe
+envelope
+fox
+housefly
+candle
+hatchet

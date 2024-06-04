@@ -1,0 +1,11 @@
+stereo
+airplane
+bomb
+
+box
+onions
+plate
+turnip
+shell
+spinach
+shoes

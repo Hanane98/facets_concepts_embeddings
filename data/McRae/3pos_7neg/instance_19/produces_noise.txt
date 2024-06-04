@@ -1,0 +1,11 @@
+helicopter
+accordion
+hair_drier
+
+tack
+cork
+sofa
+garage
+slippers
+balloon
+cloak

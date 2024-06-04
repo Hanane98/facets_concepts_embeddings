@@ -1,0 +1,11 @@
+pot
+apron
+tongs
+
+harmonica
+skunk
+thimble
+blouse
+ruler
+jet
+lettuce

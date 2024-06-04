@@ -1,0 +1,11 @@
+bomb
+clarinet
+airplane
+
+crayon
+bookcase
+corn
+nylons
+barn
+tie
+potted_plant

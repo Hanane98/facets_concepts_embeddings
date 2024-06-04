@@ -1,0 +1,11 @@
+harp
+bomb
+cell_phone
+
+shovel
+rabbit
+socks
+swimsuit
+olive
+wine_glass
+grater

@@ -1,0 +1,11 @@
+strainer
+blender
+toaster
+
+eggplant
+brick
+falcon
+anchor
+catapult
+buggy
+octopus

@@ -1,0 +1,11 @@
+alligator
+motorcycle
+sword
+
+basement
+bucket
+apartment
+clock
+broccoli
+spade
+screwdriver

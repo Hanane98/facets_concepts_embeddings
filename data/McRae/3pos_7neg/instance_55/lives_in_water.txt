@@ -1,0 +1,11 @@
+goldfish
+crocodile
+submarine
+
+revolver
+microscope
+banana
+taxi
+tricycle
+grater
+suitcase

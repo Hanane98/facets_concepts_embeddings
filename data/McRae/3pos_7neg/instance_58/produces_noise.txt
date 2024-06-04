@@ -1,0 +1,11 @@
+piano
+airplane
+hair_drier
+
+gloves
+chisel
+bread
+stone
+rhubarb
+chair
+wagon

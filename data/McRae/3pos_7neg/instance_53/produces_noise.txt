@@ -1,0 +1,11 @@
+ambulance
+hair_drier
+accordion
+
+dresser
+lamp
+sofa
+trailer
+skis
+skirt
+goldfish

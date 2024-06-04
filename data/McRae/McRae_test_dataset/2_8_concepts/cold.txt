@@ -1,0 +1,11 @@
+bison
+inn
+
+helmet
+bracelet
+olive
+rabbit
+chimp
+rice
+harp
+toaster

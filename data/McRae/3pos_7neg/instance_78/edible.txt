@@ -1,0 +1,11 @@
+beans
+tuna
+pizza
+
+bolts
+hook
+bureau
+boots
+rocket
+tractor
+sweater

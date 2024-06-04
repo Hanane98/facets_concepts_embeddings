@@ -1,0 +1,11 @@
+caribou
+rat
+cheetah
+flea
+turtle
+
+avocado
+bed
+blouse
+balloon
+medal

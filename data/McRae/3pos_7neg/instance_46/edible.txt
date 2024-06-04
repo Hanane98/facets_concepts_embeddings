@@ -1,0 +1,11 @@
+cake
+potato
+squid
+
+sheep
+ostrich
+ashtray
+radio
+bookcase
+cell_phone
+gate

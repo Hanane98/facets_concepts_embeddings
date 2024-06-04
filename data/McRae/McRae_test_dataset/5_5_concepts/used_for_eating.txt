@@ -1,0 +1,11 @@
+knife
+turnip
+lime
+donut
+bread
+
+hare
+vine
+clock
+mat
+boat

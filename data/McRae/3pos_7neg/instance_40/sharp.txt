@@ -1,0 +1,11 @@
+scissors
+dagger
+grater
+
+garage
+limousine
+iguana
+shirt
+whip
+pepper
+teddy_bear

@@ -1,0 +1,11 @@
+candle
+shield
+bracelet
+skirt
+
+baseball_glove
+shrimp
+microscope
+crab
+socks
+crayon

@@ -1,0 +1,11 @@
+yacht
+harp
+knife
+rocket
+
+tongs
+spider
+bayonet
+rattle
+magazine
+shoes

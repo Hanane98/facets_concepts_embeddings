@@ -1,0 +1,11 @@
+hair_drier
+cigarette
+bathtub
+
+refrigerator
+sleigh
+pearl
+scooter
+bag
+wrench
+spatula

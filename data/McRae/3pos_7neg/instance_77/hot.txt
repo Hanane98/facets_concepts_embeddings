@@ -1,0 +1,11 @@
+candle
+toaster
+bathtub
+
+hawk
+pepper
+clamp
+cushion
+envelope
+anchor
+eggplant

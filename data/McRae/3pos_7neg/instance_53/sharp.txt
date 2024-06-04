@@ -1,0 +1,11 @@
+razor
+pin
+grater
+
+dolphin
+bag
+ant
+rabbit
+chicken
+bread
+housefly

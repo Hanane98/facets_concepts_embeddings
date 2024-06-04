@@ -1,0 +1,11 @@
+piano
+helicopter
+stereo
+
+oven
+snail
+beets
+pyramid
+ashtray
+ladle
+snowboard
